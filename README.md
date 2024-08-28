@@ -28,19 +28,19 @@ Welcome to play and learn!
 
 ## Screenshots
 
-<img src="equation-bingo-menu.jpg" alt="Game menu">
+<img src="equation-bingo-menu.png" alt="Game menu">
 
-<img src="equation-bingo.jpg" alt="Game view">
+<img src="equation-bingo.png" alt="Game view">
 
-<img src="equation-bingo-2.jpg" alt="Game view">
+<img src="equation-bingo-2.png" alt="Game view">
 
-<img src="equation-bingo-3.jpg" alt="Game view">
+<img src="equation-bingo-3.png" alt="Game view">
 
-<img src="equation-bingo-4.jpg" alt="Game view">
+<img src="equation-bingo-4.png" alt="Game view">
 
-<img src="equation-bingo-5.jpg" alt="Game view">
+<img src="equation-bingo-5.png" alt="Game view">
 
-<img src="equation-bingo-6.jpg" alt="Game view">
+<img src="equation-bingo-6.png" alt="Game view">
 
 ## Also available for Android devices
 
